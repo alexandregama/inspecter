@@ -1,2 +1,2 @@
 # Inspecter
-Inspecter allows you to test you code easily and without boilerplates code
+Inspecter allows you to test your code easily and without boilerplates code
